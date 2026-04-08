@@ -28,4 +28,4 @@ To a first approximation, product managers should analyse and present their own 
 
 The key principle behind the whole structure is that the teams who do the work are the most important element, that it remains one organisation with one leader, and that overheads and enablers are kept to a minimum. It should be possible for good people to enjoy successful careers as managers or ICs while remaining focused on the core mission.
 
-![Organisation Structure Diagram](/images/org_chart.png)  
+![Organisation Structure Diagram](/darkblog/images/org_chart.png)  
